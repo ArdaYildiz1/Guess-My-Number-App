@@ -1,5 +1,5 @@
 React Native app which uses Expo
--> App is a game which aims to guess the number that the user has chosen in his/her mind
+# App is a game which aims to guess the number that the user has chosen in his/her mind
 -> App generates and displays a random number on the screen
 -> Under the generated number, two different prompts are provided: 
   1) If the number that the user has chosen is greater than the genarated number, user should click on the up arrow
